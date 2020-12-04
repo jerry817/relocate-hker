@@ -1,7 +1,11 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "http://localhost:2368",
+    "contentApiKey": "24dab0c1d271434a7e1d81fdfd"
+  },
+  "test": {
+  	"apiUrl": "http://localhost:2368",
+    "contentApiKey": "24dab0c1d271434a7e1d81fdfd"
   },
   "production": {
     "apiUrl": "https://gatsby.ghost.io",
